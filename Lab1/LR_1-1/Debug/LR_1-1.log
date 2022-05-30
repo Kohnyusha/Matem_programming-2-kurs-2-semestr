@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (LR_1-1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Auxil.cpp
+  LR_1.cpp
+  Создание кода...
+  LR_1-1.vcxproj -> C:\Users\User\Downloads\BSTU\4Sem\MATPROG\LR_1\Debug\LR_1.exe
